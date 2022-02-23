@@ -4,7 +4,7 @@
   <br>
   <br>
   <p>- 👩🏻‍🎓 Sou formada em Ciência da Computação
-  <br> - 🌱 Eu estou aprendendo C#</p>
+  <br> - 🌱 Eu estou aprendendo C# e Node.Js</p>
    <a href = "https://docs.microsoft.com/pt-br/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
 </div>
 
