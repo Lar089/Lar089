@@ -4,7 +4,7 @@
   <br>
   <br>
   <p>- 👩🏻‍🎓 Sou formada em Ciência da Computação
-  <br> - 🌱 Eu estou aprendendo C# e Node.Js</p>
+  <br> - 🌱 Eu estou aprendendo Node.Js</p>
 </div>
 
 ##
