@@ -3,8 +3,7 @@
   <img height="180em" src="https://cdn.discordapp.com/attachments/273563234383036416/938089284337033286/download20220202120928.png"/>
   <br>
   <br>
-  <p>- 👩🏻‍🎓 Sou formada em Ciência da Computação
-  <br> - 🌱 Eu estou aprendendo Node.Js</p>
+  <p>- 👩🏻‍🎓 Sou formada em Ciência da Computação</p>
 </div>
 
 ##
